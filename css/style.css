@@ -1,0 +1,132 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-image: url(../img/Group_3.jpg);
+    padding: 90px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    
+    
+}
+.container{
+    width: 960px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.col-1{
+    width: 19%;
+    float: left;
+    
+}
+.col-2{
+    width: 81%;
+    float: left;
+    
+}
+header h1{
+    color: #ffffff;
+    font-size: 60px;
+    margin-bottom: 15px;
+
+}
+header p{
+    color: #faf9f9;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+img{
+    display: block;
+    max-width: 100%;
+    width: 320px;
+    margin-left: auto;
+}
+ .btn1 {
+    display: inline-block;
+    text-decoration: none;
+    background-color: #f91a55;
+    padding: 18px 50px;
+    color: white;
+    font-family: auto;
+    text-align: center;
+    border-radius: 8px;
+    font-size: 22px;
+    margin: 15px 0;
+    text-transform: uppercase;
+    
+ }
+ .btn2 {
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px 38px;
+    color: white;
+    font-family: auto;
+    text-align: center;
+    border-radius: 8px;
+    border: 1px solid white;
+    margin-top: 15px;
+    
+ }
+ .about-pnp{
+     padding: 100px 0;
+     text-align: center;
+ }
+ .about-pnp h1{
+     font-size: 45px;
+     margin: 0;
+ }
+ .about-pnp p{
+     font-size: 22px;
+     color: #8c8c8c;
+     padding-bottom: 40px;
+ }
+ .about-pnp strong{
+     color: #000;
+ }
+ .feature-section {
+    padding: 100px 0;
+    background: aliceblue;
+}
+ .col-3 {
+    width: 50%;
+    float: left;
+    padding: 0 84px;
+    box-sizing: border-box;
+    text-align: center;
+}
+.feature-section h2 {
+    color: #f91a55;
+    font-weight: 400;
+    font-size: 22px;
+    margin: 0;
+}
+ .feature-section p {
+    font-size: 22px;
+    color: #8c8c8c;
+    margin-top: 8px;
+    margin-bottom: 25px;
+ }
+ .line {
+     border-right: 5px solid red;
+ }
+ .footer{
+     background-image: url(../img/footer.jpg);
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: cover;
+ }
+ .footer-content {
+    padding: 50px 0;
+}
+.footer-content h1{
+    color: #ffffff;
+    font-size: 50px;
+}
+.footer-content p{
+    color: #ffffff;
+    font-size: 22px;
+}
